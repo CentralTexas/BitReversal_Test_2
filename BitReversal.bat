@@ -1,0 +1,1 @@
+java -jar BitReversal.jar %1
